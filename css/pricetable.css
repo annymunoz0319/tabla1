@@ -1,0 +1,78 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0 auto;
+    background-color: gray;
+} 
+.blue {
+    background-color: #F0F8FF;
+}
+.white {
+    background-color: white;
+}
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 3em auto;
+    box-shadow: 6px 6px 6px rgb(0, 0, 0, 0.2);
+    background-color: transparent;
+   
+}
+thead>tr>th {
+    color: white;
+    padding: 5px;
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.price {
+    background-color: black;
+    font-size: 40px;
+   
+}
+.uno {
+    background-color: #0000FF;
+    
+}
+
+.dos {
+    background-color: #8A2BE2;
+}
+.tres {
+    background-color: #FF0080;
+}
+.cuatro {
+    background-color: #FF8C00;
+}
+
+tbody {
+     text-align: center;    
+ }
+ 
+ img {
+    margin: 0 auto;
+    display: block;
+ }
+tfoot>tr>td {
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom: 20px;
+} 
+.f-0 {
+    background-color: black;
+
+}
+.f-1 {
+    background-color: #0000FF;
+}
+.f-2 {
+    background-color: #8A2BE2;
+}
+.f-3 {
+    background-color: #FF0080;
+}
+.f-4 {
+    background-color: #FF8C00;
+}
